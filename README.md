@@ -1,4 +1,4 @@
-                                       # Hi👋, I'm Mahadevaswamy
+                                                  Hi👋, I'm Mahadevaswamy
 🔭 I’m currently working on System Administration<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Networking, Linux and Cloud
 
 
